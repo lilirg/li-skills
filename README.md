@@ -2,6 +2,39 @@
 
 个人 AI 编程助手 Skills 存储库，收录了一系列用于提升开发效率与设计质量的技能模块。每个 Skill 以 [`SKILL.md`](SKILLS/common/brainstorming/SKILL.md) 为核心定义文件，包含使用场景、工作流程、最佳实践及参考资源。
 
+## 目录
+
+- [li-skills](#li-skills)
+  - [目录](#目录)
+  - [目录结构](#目录结构)
+  - [Skills 概览](#skills-概览)
+    - [通用技能（common）](#通用技能common)
+      - [Brainstorming — 头脑风暴与设计规划](#brainstorming--头脑风暴与设计规划)
+    - [设计技能（design）](#设计技能design)
+      - [Adobe XD — 设计与原型](#adobe-xd--设计与原型)
+      - [Algorithmic Art — p5.js 生成式算法艺术](#algorithmic-art--p5js-生成式算法艺术)
+      - [Animation Vocabulary — 动画术语反向查询](#animation-vocabulary--动画术语反向查询)
+      - [Apple Design — Apple 设计理念（Web 实现）](#apple-design--apple-设计理念web-实现)
+      - [Brand Guidelines — 品牌视觉规范](#brand-guidelines--品牌视觉规范)
+      - [Canvas Design — 画布级静态视觉设计](#canvas-design--画布级静态视觉设计)
+      - [Emil Design Engineering — Emil Kowalski 设计工程哲学](#emil-design-engineering--emil-kowalski-设计工程哲学)
+      - [Find Animation Opportunities — 发现动画机会](#find-animation-opportunities--发现动画机会)
+      - [Improve Animations — 动画改进审计与计划](#improve-animations--动画改进审计与计划)
+      - [Pick UI Library — UI 库选择指南](#pick-ui-library--ui-库选择指南)
+      - [Review Animations — 动画代码审查](#review-animations--动画代码审查)
+    - [文档技能（document）](#文档技能document)
+      - [Architecture Document Generator — 架构文档生成器](#architecture-document-generator--架构文档生成器)
+    - [前端开发技能（web-frontEnd）](#前端开发技能web-frontend)
+      - [Tailwind CSS — 实用优先 CSS 框架](#tailwind-css--实用优先-css-框架)
+      - [UI/UX Pro Max — UI/UX 设计智能引擎](#uiux-pro-max--uiux-设计智能引擎)
+      - [Vue Best Practices — Vue 3 最佳实践（Composition API）](#vue-best-practices--vue-3-最佳实践composition-api)
+      - [Vue JSX Best Practices — Vue JSX 最佳实践](#vue-jsx-best-practices--vue-jsx-最佳实践)
+      - [Vue Options API Best Practices — Vue Options API 最佳实践](#vue-options-api-best-practices--vue-options-api-最佳实践)
+      - [Vue Pinia Best Practices — Pinia 状态管理最佳实践](#vue-pinia-best-practices--pinia-状态管理最佳实践)
+    - [项目级技能（Project-SKILLS）](#项目级技能project-skills)
+      - [CoPaw Build — CoPaw 项目构建](#copaw-build--copaw-项目构建)
+  - [许可证](#许可证)
+
 ## 目录结构
 
 ```
